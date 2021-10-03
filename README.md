@@ -1,5 +1,8 @@
 # Types-of-SQL-Injecton
+![]()https://github.com/Offensive-Penetration-Security/Types-of-SQL-Injecton/blob/main/wall/sql-injection.svg
+
 -----------------------------------------------------------------------------------
+
 ## Types of SQL Injection (SQLi)
 SQL Injection can be used in a range of ways to cause serious problems. By levering SQL Injection, an attacker could bypass authentication, access, modify and delete data within a database. In some cases, SQL Injection can even be used to execute commands on the operating system, potentially allowing an attacker to escalate to more damaging attacks inside of a network that sits behind a firewall.
 SQL Injection can be classified into three major categories – In-band SQLi, Inferential SQLi and Out-of-band SQLi.
