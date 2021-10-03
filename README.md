@@ -7,7 +7,7 @@
 SQL Injection can be used in a range of ways to cause serious problems. By levering SQL Injection, an attacker could bypass authentication, access, modify and delete data within a database. In some cases, SQL Injection can even be used to execute commands on the operating system, potentially allowing an attacker to escalate to more damaging attacks inside of a network that sits behind a firewall.
 SQL Injection can be classified into three major categories – In-band SQLi, Inferential SQLi and Out-of-band SQLi.
 
-1 ## In-band SQLi (Classic SQLi)
+1 In-band SQLi (Classic SQLi)
 In-band SQL Injection is the most common and easy-to-exploit of SQL Injection attacks. In-band SQL Injection occurs when an attacker is able to use the same communication channel to both launch the attack and gather results.
 
 The two most common types of in-band SQL Injection are Error-based SQLi and Union-based SQLi.
